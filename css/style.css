@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    
+    background-image: url(../acffb30496751677227b15205d398ef9.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
+  
+  #login {
+    margin-top: 100px;
+   
+  }
+  #Register{
+    margin-top: 100px;
+   
+  }
+  
+  #home h2 {
+    color: #343a40;
+  }
+  
+  .d-none {
+    display: none !important;
+  }
+  
+  .text-success {
+    color: green !important;
+  }
+  
+  .text-danger {
+    color: red !important;
+  }
+  #navbar{
+    background-color: #C294D4 !important;
+  }
+  
